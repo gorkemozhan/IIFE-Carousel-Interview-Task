@@ -1,4 +1,4 @@
-# IIFE Carousel – Bekir Görkem Özhan
+# IIFE Carousel
 
 ## 📌 Proje Özeti
 Bu proje, e-bebek ana sayfasında görüntülenecek şekilde tasarlanmış dinamik bir ürün carouselidir. Ürünler JSON kaynağından çekilmekte, localStorage yardımıyla saklanmakta ve kullanıcılar belirli ürünleri favori olarak işaretleyebilmektedir.
@@ -28,5 +28,5 @@ Proje hazırlanırken özellikle IIFE kullanımı, localStorage yönetimi ve car
 
 ---
 
-Teşekkürler,  
-**Bekir Görkem Özhan**
+Teşekkürler
+
